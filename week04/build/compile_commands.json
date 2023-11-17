@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/pentaery/projects/CPP/week04/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/test.dir/examples/array.cpp.o -c /home/pentaery/projects/CPP/week04/examples/array.cpp",
+  "file": "/home/pentaery/projects/CPP/week04/examples/array.cpp"
+}
+]

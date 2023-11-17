@@ -1,0 +1,3 @@
+/home/pentaery/projects/CPP/week04/build/CMakeFiles/test.dir
+/home/pentaery/projects/CPP/week04/build/CMakeFiles/edit_cache.dir
+/home/pentaery/projects/CPP/week04/build/CMakeFiles/rebuild_cache.dir
