@@ -1,3 +1,0 @@
-/home/pentaery/projects/CPP/week01/build/CMakeFiles/hello.dir
-/home/pentaery/projects/CPP/week01/build/CMakeFiles/edit_cache.dir
-/home/pentaery/projects/CPP/week01/build/CMakeFiles/rebuild_cache.dir

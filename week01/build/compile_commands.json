@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/pentaery/projects/CPP/week01/build",
-  "command": "/usr/bin/g++   -g -o CMakeFiles/hello.dir/examples/hello.o -c /home/pentaery/projects/CPP/week01/examples/hello.cpp",
-  "file": "/home/pentaery/projects/CPP/week01/examples/hello.cpp"
-}
-]
