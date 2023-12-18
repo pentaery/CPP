@@ -1,0 +1,6 @@
+cmake_minimum_required(3.15)
+
+project(CPP)
+
+add_subdirectory(week01)
+#add_subdirectory(week02)
