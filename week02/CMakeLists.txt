@@ -1,1 +1,1 @@
-add_executable(week02 ./examples/overflow.cpp)
+add_executable(week02 ./examples/conversion.cpp)
