@@ -1,1 +1,1 @@
-add_executable(week03 ./examples/if.cpp)
+add_executable(week03 ./examples/while.cpp)
