@@ -1,0 +1,1 @@
+add_executable(week04 ./examples/typedef.cpp)

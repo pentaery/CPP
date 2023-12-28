@@ -17,18 +17,18 @@ int main()
     
     //You cannot change the value that p1 points to through p1
     const int * p1 = &num;
-    *p1 = 3; //error
+ //   *p1 = 3; //error
     num = 3; //okay
 
     //You cannot change value of p2 (address)
     int * const p2 = &num;
     *p2 = 3; //okay
-    p2 = &another; //error
+ //   p2 = &another; //error
 
     //You can change neither
     const int* const p3 = &num;
-    *p3 = 3; //error
-    p3 = &another; // error
-
-    return 0;
+  //  *p3 = 3; //error
+  //  p3 = &another; // error
+  
+     return 0;
 }

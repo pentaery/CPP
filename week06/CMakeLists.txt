@@ -1,0 +1,1 @@
+add_executable(week06 ./examples/reference.cpp)

@@ -21,4 +21,4 @@ int main()
     cout << strlen(name) << endl;
 
     return 0;
-}
+} 
